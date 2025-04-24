@@ -4,7 +4,7 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xYourTokenAddressHere",
+      "address": "0xE979e60adcdce88B115B5Cc72033668e692adB57",
       "symbol": "BIZON",
       "name": "Bizon Token",
       "decimals": 18,
